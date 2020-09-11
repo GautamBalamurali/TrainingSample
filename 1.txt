@@ -1,4 +1,8 @@
 Hello world zz
 xx
+<<<<<<< HEAD
 yoyoy
 aha
+=======
+laal
+>>>>>>> 9eae0811ff517dcdb456e3859d0d5ecea186792a
